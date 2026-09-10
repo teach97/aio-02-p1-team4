@@ -1,4 +1,6 @@
 # 🎬 SubSync
+<img width="2048" height="2048" alt="bf3d371e7999ca5e" src="https://github.com/user-attachments/assets/7d622da7-d275-4739-9f2b-61351f3aa00d" />
+
 
 **YouTube를 보면서 자막, 단어 학습, AI Tutor까지 한 번에**
 
